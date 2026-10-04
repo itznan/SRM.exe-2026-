@@ -2,6 +2,10 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+> [!NOTE]
+> **Educational & Research Purpose**
+> This repository is strictly an educational project intended for security research, reverse-engineering study, and software architecture analysis. It documents how secure browsers implement application isolation and monitoring techniques.
+
 ## Overview
 
 This repository contains a comprehensive reverse engineering analysis of **SRM.exe** (SRM Secure Browser v1.0.20), a proctored exam browser application developed by Eduswitch Solutions Pvt Ltd.
